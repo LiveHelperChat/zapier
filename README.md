@@ -14,7 +14,6 @@ Min 4.26 Live Helper Chat version.
 * Click `Create/Update Rest API call`
 
 # Video manual
-
-Underway...
+https://www.youtube.com/watch?v=Bp5akFXsdVA
 
 That's it.
